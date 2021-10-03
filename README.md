@@ -27,3 +27,41 @@ Which model tracks the actual values better over time?
 The model using the prior closing price tracks the actual values better over time.
 
 Which window size works best for the model?
+
+Using the closing prices, the actual and predicted prices are shown below for various window sizes (1,2,4,6,8,10).  Window sizes of 1,2 and 8 better represent the actual price. 
+
+Window size = 1:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773008-82bb680d-04bf-4b4e-9230-6d4bc959a62d.png)
+
+
+Window size = 2:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773025-d854554c-e42d-4609-9cac-f4400eb73186.png)
+
+
+Window size = 4:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773028-a46274e8-7977-4ac3-93ed-abd839591949.png)
+
+
+Window size = 6:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773038-f05afd33-afd5-4f56-8659-8bf0574593f5.png)
+
+
+Window size = 8:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773047-7a4eaa09-16ca-4186-bd72-54a2f6da4afa.png)
+
+
+Window size = 10:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773051-85f16045-613d-4aac-8540-ca6b84b489e2.png)
+
