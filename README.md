@@ -1,5 +1,5 @@
 # Homework 14
-# Deep_Learning
+# Deep Learning
 
 The objective of this homework is to determine whether using the Crypto Fear and Greed Index (FNG) is predictive of BTC closing prices. The questions to answer are: 
 
@@ -64,4 +64,42 @@ Window size = 10:
 
 
 ![image](https://user-images.githubusercontent.com/1499520/135773051-85f16045-613d-4aac-8540-ca6b84b489e2.png)
+
+
+Using FNG data: 
+
+Window size = 1:
+
+![image](https://user-images.githubusercontent.com/1499520/135773073-b8f62c19-4e93-4e3f-83a4-0e9b07c75a3a.png)
+
+
+Window size = 2:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773078-fd0484f0-07ca-4579-b0a3-f720ee9d78c8.png)
+
+
+Window size = 4:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773083-fa1b3836-909b-4eb5-ac80-4de5a244c02f.png)
+
+
+Window size = 6
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773091-50abc6d1-3598-4f44-b540-446c8eff69c0.png)
+
+
+Window size = 8
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773098-c159123c-68ed-49a3-a2c4-253148ad2b15.png)
+
+
+Window size = 10:
+
+
+![image](https://user-images.githubusercontent.com/1499520/135773104-5fd2aac5-be25-41d8-b1d4-0cb6b61e154f.png)
+
 
