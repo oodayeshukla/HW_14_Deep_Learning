@@ -7,11 +7,15 @@ Which model has a lower loss?
 The approach using FNG data has higher loss, whereas using the prior closing price is more predictive when applying the LSTM modeling approach. 
 
 The following plot shows the FNG time series. 
+
+
 ![image](https://user-images.githubusercontent.com/1499520/135772804-9932b903-cd98-4c87-beb0-16d4562644ad.png)
 
 
 
 The following plot shows the closing prices. 
+
+
 ![image](https://user-images.githubusercontent.com/1499520/135772834-cd5fdb00-5b89-491d-9d18-a725cb10214e.png)
 
 
