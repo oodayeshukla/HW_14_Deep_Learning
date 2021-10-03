@@ -16,8 +16,7 @@ The following plot shows the FNG time series.
 The following plot shows the closing prices. 
 
 
-![image](https://user-images.githubusercontent.com/1499520/135772834-cd5fdb00-5b89-491d-9d18-a725cb10214e.png)
-
+![image](https://user-images.githubusercontent.com/1499520/135773133-4057774f-80e5-4ee7-8db0-bd89ef756b8c.png)
 
 
 Visual inspection shows that there is little strucutural correlation betweeen the two time series.  It is unlikely given the lagged data used by the LSTM model that using the FNG time series data will be predictive of the closing price. 
